@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: "sith";
+  src: local("sith"), url("./Fonts/sith.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "mandalorian";
+  src: local("mandalorian"), url("./Fonts/mandalorian.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "cheunh";
+  src: local("cheunh"), url("./Fonts/cheunh.woff") format("woff");
+}
+
+@font-face {
+  font-family: "gungan";
+  src: local("gungan"), url("./Fonts/gungan.woff") format("woff");
+}
+
+@font-face {
+  font-family: "yoda";
+  src: local("yoda"), url("./Fonts/yoda.woff") format("woff");
+}
+
+@font-face {
+  font-family: "huttese";
+  font-style: normal;
+  font-weight: normal;
+  src: local("huttese"), url("./Fonts/huttese.woff") format("woff");
+}

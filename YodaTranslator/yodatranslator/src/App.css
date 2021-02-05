@@ -1,0 +1,27 @@
+.mainDiv {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-size: cover;
+}
+.input {
+    font-size: larger;
+}
+.button {
+    border: black;
+    font-size: larger;
+}
+
+.dialog {
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.unionContainer {
+    text-align: center;
+    vertical-align: bottom;
+    position: absolute;
+    bottom: 100px;
+}
